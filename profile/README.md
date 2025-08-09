@@ -31,7 +31,7 @@ Cette organisation de Njaboot Connect est dédiée aux développeurs front-end e
 
 ## 👩‍💻 Équipes de développement
 
-Nous avons deux équipes spécialisées qui collaborent étroitement :  
+Nous avons deux équipes spécialisées qui collaborent étroitement :
 
 - **Équipe Front-end**  
   En charge des interfaces utilisateurs et du design des applications et du site web.
@@ -41,13 +41,27 @@ Nous avons deux équipes spécialisées qui collaborent étroitement :
 
 ---
 
-## 📫 Nous contacter
+## 🛠️ Stack technologique
 
-Pour toute question ou contribution, n’hésitez pas à nous contacter :  
-- Email : contact@njabootconnect.com  
-- Site web : [https://njabootconnect.com](https://njabootconnect.com)
+- **Front-end :** React ⚛️, Tailwind CSS 🎨  
+- **Back-end :** Node.js 🟢, MySQL 🐬, Prisma 📦  
+- **Outils :** Git 🐙, Nginx 🌐, Docker 🐳
+
+---
+
+## 📡 Réseaux & Contacts
+
+<p>
+  <strong>🌍 Localisation :</strong> Dakar, Sénégal<br>
+  <strong>👥 Followers :</strong> 2<br>
+  <strong>🌐 Site web :</strong> <a href="https://www.njabootconnect.com" target="_blank">www.njabootconnect.com</a><br>
+  <strong>🏢 LinkedIn :</strong> <a href="https://www.linkedin.com/company/njaboot-connect" target="_blank">company/njaboot-connect</a><br>
+  <strong>🐦 Twitter :</strong> <a href="https://twitter.com/njabootconnect" target="_blank">@njabootconnect</a><br>
+  <strong>🎵 TikTok :</strong> <a href="https://www.tiktok.com/@njaboot.connect" target="_blank">njaboot.connect</a><br>
+  <strong>✉️ Email :</strong> <a href="mailto:contact@njabootconnect.com">contact@njabootconnect.com</a>
+</p>
 
 ---
 
 Merci de votre intérêt pour Njaboot Connect !  
-Continuons à construire ensemble des solutions innovantes pour nos utilisateurs.
+Continuons à construire ensemble des solutions innovantes pour nos utilisateurs. 🚀
