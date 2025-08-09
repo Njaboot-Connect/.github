@@ -1,4 +1,4 @@
-# 👋 Bienvenue chez Njaboot Connect
+# 👋 Bienvenue sur le repo Organisation Njaboot Connect
 
 Cette organisation de Njaboot Connect est dédiée aux développeurs front-end et back-end qui collaborent pour construire un écosystème complet d’applications et services de l'entreprise. Nous gérons plusieurs applications destinées à différents utilisateurs : partenaires, clients, managers, ainsi qu’un site web officiel et des API.
 
