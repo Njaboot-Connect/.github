@@ -53,7 +53,6 @@ Nous avons deux équipes spécialisées qui collaborent étroitement :
 
 <p>
   <strong>🌍 Localisation :</strong> Dakar, Sénégal<br>
-  <strong>👥 Followers :</strong> 2<br>
   <strong>🌐 Site web :</strong> <a href="https://www.njabootconnect.com" target="_blank">www.njabootconnect.com</a><br>
   <strong>🏢 LinkedIn :</strong> <a href="https://www.linkedin.com/company/njaboot-connect" target="_blank">company/njaboot-connect</a><br>
   <strong>🐦 Twitter :</strong> <a href="https://twitter.com/njabootconnect" target="_blank">@njabootconnect</a><br>
