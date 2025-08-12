@@ -6,8 +6,20 @@ Cette organisation de Njaboot Connect est dédiée aux développeurs front-end e
 
 ## 🚀 Nos repositories principaux
 
+- **[web-site-njabootconnect](https://github.com/Njaboot-Connect/web-site-njabootconnect)**  
+  Site web officiel de Njaboot Connect.
+
+- **[app-njaboot-connect](https://github.com/Njaboot-Connect/app-njaboot-connect)**  
+  Application client et gérant d'une boutique.
+
+- **[api-njaboot-connect](https://github.com/Njaboot-Connect/api-njaboot-connect)**  
+  API REST avec les mricroservices client et gérant d'une boutique.
+
 - **[app-partner-njaboot-connect](https://github.com/Njaboot-Connect/app-partner-njaboot-connect)**  
   Application pour les partenaires Njaboot Connect.
+
+- **[app-warehouse-njaboot-connect](https://github.com/Njaboot-Connect/app-warehouse-njaboot-connect)**  
+  Application pour les gérant dans les centrales d'achat de Njaboot Connect.
 
 - **[application-shopkeeper-njabootconnect](https://github.com/Njaboot-Connect/application-shopkeeper-njabootconnect)**  
   Gestion des candidatures des intéressés (boutiquiers, partenaires...).
@@ -15,17 +27,8 @@ Cette organisation de Njaboot Connect est dédiée aux développeurs front-end e
 - **[finance-manager-njabootconnect](https://github.com/Njaboot-Connect/finance-manager-njabootconnect)**  
   Application de gestion des finances de Njaboot Connect.
 
-- **[web-site-njabootconnect](https://github.com/Njaboot-Connect/web-site-njabootconnect)**  
-  Site web officiel de Njaboot Connect.
 
-- **[api-getway-njabootconnect](https://github.com/Njaboot-Connect/api-getway-njabootconnect)**  
-  Source d'entrée des API Njaboot Connect.
 
-- **[app-client-njaboot-connect](https://github.com/Njaboot-Connect/app-client-njaboot-connect)**  
-  Partie application client Njaboot Connect.
-
-- **[app-manager-njaboot-connect](https://github.com/Njaboot-Connect/app-manager-njaboot-connect)**  
-  Partie manager boutique Njaboot Connect.
 
 ---
 
