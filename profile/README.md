@@ -15,6 +15,9 @@ Cette organisation de Njaboot Connect est dédiée aux développeurs front-end e
 - **[api-njaboot-connect](https://github.com/Njaboot-Connect/api-njaboot-connect)**  
   API REST avec les mricroservices client et gérant d'une boutique.
 
+- **[suppliers-app-njaboot-connect](https://github.com/Njaboot-Connect/suppliers-app-njaboot-connect)**  
+  Application pour les fournisseurs Njaboot Connect.
+
 - **[app-partner-njaboot-connect](https://github.com/Njaboot-Connect/app-partner-njaboot-connect)**  
   Application pour les partenaires Njaboot Connect.
 
